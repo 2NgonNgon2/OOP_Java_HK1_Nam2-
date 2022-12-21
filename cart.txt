@@ -1,0 +1,3 @@
+A4,Laptop do hoa ,2,1900
+A7,Laptop hoc tap,2,1000
+A9,Laptop hoc tap,12,600
